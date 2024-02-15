@@ -8,6 +8,7 @@ import { NavbarComponent } from './componants/navbar/navbar.component';
 import { SidebarComponent } from './componants/sidebar/sidebar.component';
 import { TableModule } from 'primeng/table';
 import { CreateCommComponent } from './componants/create-comm/create-comm.component';
+import { CommitteesComponent } from './componants/committees/committees.component';
 
 
 @NgModule({
@@ -16,7 +17,8 @@ import { CreateCommComponent } from './componants/create-comm/create-comm.compon
     HomeComponent,
     NavbarComponent,
     SidebarComponent,
-    CreateCommComponent
+    CreateCommComponent,
+    CommitteesComponent
     
     
   ],

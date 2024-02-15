@@ -1,0 +1,212 @@
+.none-committees{
+    padding: 10px;
+    display: none;
+}
+.line h3{
+font-family: Janna LT;
+font-size: 24px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: right;
+color: #666D80;
+margin: 0;
+}
+.line h4{
+font-family:Tajawal ;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: right;
+color: #666D80;
+}
+.info {
+    text-align: center;
+}
+.info img{
+    width: 40%;
+    height: 70%;
+}
+.btns{
+    width: fit-content;
+
+    margin: auto;
+    margin-top: 50px;
+}
+.btns a{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 364px;
+height: 62px;
+padding: 4px, 24px, 4px, 24px;
+border-radius: 5px;
+gap: 4px;
+background-color: #5620D2;
+color: #fff;
+}
+
+// committees style
+.committees{
+    padding: 10px;
+}
+.collect {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 50px;
+}
+.filters{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.add-committee{
+display: flex;
+justify-content: center;
+align-items: center;
+width:161px;
+height:50px;
+padding: 4px, 24px, 4px, 24px;
+border-radius: 5px;
+gap: 4px;
+text-decoration: none;
+color: #fff;
+background-color: #5620D2;
+}
+.search-input{
+padding: 5px;
+width: 290px;
+height: 50px;
+border-radius: 12px;
+color: #666D80;
+box-shadow: 2px 4px 15px 0px #0000000A;
+outline: none;
+border: transparent;
+}
+.scearh{
+    position: relative;
+    margin-left: 20px;
+}
+.vector{
+    position: absolute;
+    top: 45%;
+    left: 10px;
+}
+.fa-magnifying-glass{
+    position: absolute;
+    top: 45%;
+    right: 10px;
+}
+.dataOfCommittee{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dataOfCommittee .data{
+    width: fit-content;
+}
+.item{
+display: inline-block;
+background-color: #fff;
+width: 440px  ;
+height: 421.33px;
+border: 0.8px solid #8B5CF6;
+box-shadow: 2px 4px 15px 0px #00000029;
+border-radius: 12px;
+padding: 10px;
+margin: 10px;
+}
+.itemHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.itemHeader .status {
+width: 95.52px;
+border-radius: 7px;
+opacity: 0.5px;
+color: #fff;
+background-color: #3C9F62;
+font-family: Janna LT;
+font-size: 12px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center
+;
+}
+.tittle{
+font-family: Janna LT;
+font-size: 18px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: right;
+color: #091135;
+
+}
+.discription{
+font-family: Janna LT;
+font-size: 18px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: right;
+color: #666D80;
+
+}
+.information{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:30px 10px;
+
+}
+.date h5 ,.numOfUser h5,.numOftasks h5{
+font-family: Janna LT;
+font-size: 15px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: right;
+color: #666D80;    
+}
+.date h6 ,.numOfUser h6,.numOftasks h6{
+font-family: Janna LT;
+font-size: 17px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: right;
+color: #091135;    
+}
+.head h5{
+font-family: Janna LT;
+font-size: 16px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: right;
+color: #666D80;
+}
+.photo-head{
+display: flex;
+align-items: center;
+margin-bottom: 20px;
+}
+.photo-head  h3{
+margin-right: 10px;
+font-family: Janna LT;
+font-size: 17px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: right;
+color: #091135;
+}
